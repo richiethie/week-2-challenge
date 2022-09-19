@@ -6,6 +6,8 @@ I built this website to serve as a password generator for users.
 A user is able to set the parameters of what to include into the password and the generator will follow these.
 In building this website, I learned how to apply many different JavaScript concepts to come together to build a functioning password generator.
 
+Link to live website: https://richiethie.github.io/week-2-challenge/
+
 
 ## Usage
 
